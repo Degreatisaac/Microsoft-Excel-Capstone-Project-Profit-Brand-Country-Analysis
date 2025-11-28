@@ -71,3 +71,15 @@ SECTION C – Country Analysis
 # 🎯 Purpose of This Repository
 This project showcases practical Excel analytics skills applicable to business analysis, supply chain performance, marketing insights, and operations management.
 It also serves as a portfolio piece for data analysis roles.
+
+# Profit Analysis Report
+<img width="1043" height="615" alt="image" src="https://github.com/user-attachments/assets/e29e6f41-2f85-407b-b950-03b23c2f1551" />
+
+# Brand Analysis Report
+<img width="1117" height="662" alt="image" src="https://github.com/user-attachments/assets/dd31760b-c28a-4615-ac78-9dd7d1c38c54" />
+
+# Country Analysis Report
+<img width="761" height="362" alt="image" src="https://github.com/user-attachments/assets/4c1ddb92-4820-4446-b5eb-1329f8e8c974" />
+
+
+
