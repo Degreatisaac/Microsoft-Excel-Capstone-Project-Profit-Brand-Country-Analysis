@@ -1,5 +1,5 @@
 # Microsoft-Excel-Capstone-Project-Profit-Brand-Country-Analysis
-This repository contains a complete Microsoft Excel analytics project completed as part of the EduBridge Academy Capstone (Cohort 5). The project focuses on generating insights from a multi-year dataset covering profit performance, brand consumption, and country-level sales trends across Anglophone and Francophone regions.
+This repository contains a complete Microsoft Excel analytics project completed as part of the EduBridge Academy Capstone. The project focuses on generating insights from a multi-year dataset covering profit performance, brand consumption, and country-level sales trends across Anglophone and Francophone regions.
 
 # 🔍 Project Overview
 The objective of this project is to demonstrate practical proficiency in Microsoft Excel, using functions, formulas, pivot tables, charts, and data modelling to support business decision-making.
